@@ -7,7 +7,7 @@ requires: [pro_micro]
 exposes: []
 features:
   - keys
-  - display
+#  - display
 siblings:
   - tako_left
   - tako_right
