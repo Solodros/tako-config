@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: Solodros
-      url-base: https://github.com/Solodros
+    - name: solodros
+      url-base: https://github.com/solodros
   projects:
     - name: zmk
-      remote: Solodros
+      remote: solodros
       revision: main
       import: app/west.yml
   self:
