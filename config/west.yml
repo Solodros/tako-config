@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+    - name: Solodros
+      url-base: https://github.com/Solodros
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: Solodros
       revision: main
       import: app/west.yml
   self:
