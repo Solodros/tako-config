@@ -2,8 +2,8 @@ file_format: "1"
 id: tako
 name: Tako
 type: shield
-url: https://github.com/ssbb/tako/
-requires: [pro_micro]
+# url: https://github.com/ssbb/tako/
+# requires: [pro_micro]
 # exposes: []
 features:
   - keys
