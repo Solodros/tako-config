@@ -1,5 +1,7 @@
-if SHIELD_TAKO_DONGLE
+# The side with the PS2 Mouse / TP has to be the central half
 
+if SHIELD_TAKO_DONGLE
+# 有 PS2 USB/TP 的USB必须是中央一半
 config ZMK_KEYBOARD_NAME
   default "Tako dongle"
 
