@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: solodros
-      revision: PS2
+      revision: main
       import: app/west.yml
   self:
     path: config
